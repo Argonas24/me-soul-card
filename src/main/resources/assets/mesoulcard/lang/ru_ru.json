@@ -1,0 +1,5 @@
+{
+  "item.mesoulcard.soul_card": "Карта душ",
+  "gui.mesoulcard.status.active": "Включено — ускорение цели",
+  "gui.mesoulcard.status.inactive": "Выключено — цель заблокирована другой картой или недостаточно душ"
+}
